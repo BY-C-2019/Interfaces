@@ -1,4 +1,4 @@
 # Interfaces
 
 Skapa två olika interfaces och låt en klass implementera dem.
-Exempel: ett interface som som deletar något och ett interface som clonar något.
+Utgå från exemplet i föreläsningsmaterialet, du kan tex skapa ett interface för moms och ett för summa. 
